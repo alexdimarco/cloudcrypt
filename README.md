@@ -31,4 +31,6 @@ First three short experiments and some owner decisions, then six milestones to a
 
 ## License
 
+Copyright 2026 DiMarco Technology Solutions Inc
+
 [Mozilla Public License 2.0](LICENSE). In short, and the license text governs: CloudCrypt can be built into software under any license, but anyone who distributes it must make the source of CloudCrypt's own files, with their changes, available under this license.
